@@ -9,7 +9,7 @@ Here I show english, bangla and hindi news article data wordcloud.
 
 ## How to use
 
-here you use your won dataset.
+here you use your dataset.
 ```
 input_path = '/content/dummy_dataset.csv' # your data set
 ```

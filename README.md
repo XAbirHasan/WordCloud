@@ -39,7 +39,7 @@ for i in range(0, l):
             hindi_article.append(the_text)
 ```
 
-For find word cloud provide your font path and text on wordcloud() method
+To find word cloud provide your font path and text on wordcloud() method
 
 ```
 # bangla font path

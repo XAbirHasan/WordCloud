@@ -53,6 +53,9 @@ for resolution change in word cloud use your own height and width
 wordcloud = WordCloud(font_path=path, width = 3000, height = 2000, colormap='Set2').generate(bidi_text)
 ```
 
+## Source file
+* **[WordCloud](https://github.com/XAbirHasan/WordCloud/blob/master/wordCloud.ipynb)**
+
 ## Authors
 
 * **AbirHasan**
